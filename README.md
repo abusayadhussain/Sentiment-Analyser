@@ -1,6 +1,6 @@
 # Sentiment-Analyser
 
-#Installation
+# Installation
 
 After downloading the script you have to download some libraries if they are not installed and they are-
 1.pandas     - python install pandas
@@ -9,6 +9,6 @@ After downloading the script you have to download some libraries if they are not
 4.textblob   - python install textblob
 5.matplotlib - python install matplotlib
 
-#Description
+# Description
 
 The Tweepy module is used to stream live tweets directly from Twitter in real-time. The tweets are visualized and then the TextBlob module is used to do sentiment analysis on the tweets.
